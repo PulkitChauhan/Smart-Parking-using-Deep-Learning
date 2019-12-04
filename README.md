@@ -13,5 +13,15 @@ EasyGo –Smart Parking System is a system that will solve the problem of traffi
 <p>4.	If the centroid lies in the empty parking box made by admin. Then, the slot is occupied.</p>
 
 ![](images/block.png)
+# Interface
 
-
+![](images/admin.png)
+![](images/detection.png)
+![](images/signup.png)
+![](images/login.png)
+![](images/signup.png)
+![](images/vit.png)
+![](images/vit2.png)
+![](images/slots.png)
+![](images/message.png)
+![](images/payment.png)
