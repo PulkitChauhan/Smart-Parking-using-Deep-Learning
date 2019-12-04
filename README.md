@@ -14,7 +14,7 @@ EasyGo –Smart Parking System is a system that will solve the problem of traffi
 
 ![](images/block.png)
 <p> Run coordinates.py and make slots using mouse click. For making one slot, select top left and bottom right.</p>
-![Admin](images/admin.png)
+![](images/admin.png)
 <p> Run main.py for detection of vehicle.[IGNORE: person class ].There are 21 classes, take only relevant classes for dectection.</p>
 ![](images/detection.png)
 <p> Sign Up page</p>
