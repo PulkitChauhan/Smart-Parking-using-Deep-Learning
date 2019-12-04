@@ -11,3 +11,5 @@ EasyGo –Smart Parking System is a system that will solve the problem of traffi
 <p>2.	Secondly, the trained/pre-trained model will detect the respective vehicle type like car, bus and motorcycle.</p>
 <p>3.	Now we will find the centroid of the bounding box of the vehicle.</p>
 <p>4.	If the centroid lies in the empty parking box made by admin. Then, the slot is occupied.</p>
+
+![Screenshot](block.png)
