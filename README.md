@@ -14,14 +14,23 @@ EasyGo –Smart Parking System is a system that will solve the problem of traffi
 
 ![](images/block.png)
 # Interface
-
-![](images/admin.png)
+<p> Run coordinates.py and make slots using mouse click. For making one slot, select top left and bottom right.</p>
+![Admin](images/admin.png)
+<p> Run main.py for detection of vehicle.[IGNORE: person class ].There are 21 classes, take only relevant classes for dectection.</p>
 ![](images/detection.png)
+<p> Sign Up page</p>
 ![](images/signup.png)
+<p> Login page</p>
 ![](images/login.png)
-![](images/signup.png)
+<p> Select parking .[Ignore speed option:still working on]</p>
+![](images/parking.png)
+<p>When other location is selcted</p>
 ![](images/vit.png)
+<p>When only VIT chennai is selcted</p>
 ![](images/vit2.png)
+<p>Availabel slots</p>
 ![](images/slots.png)
+<p>Confirmation message</p>
 ![](images/message.png)
+<p>Paymeny option</p>
 ![](images/payment.png)
