@@ -21,7 +21,7 @@ EasyGo –Smart Parking System is a system that will solve the problem of traffi
 ![](images/detection.png)
 <p> Sign Up page</p>
 
-![](images/signup.png)
+![](images/signup.PNG)
 <p> Login page</p>
 
 ![](images/login.png)
@@ -30,10 +30,10 @@ EasyGo –Smart Parking System is a system that will solve the problem of traffi
 ![](images/parking.png)
 <p>When other location is selcted</p>
 
-![](images/vit.png)
+![](images/vit.PNG)
 <p>When only VIT chennai is selcted</p>
 
-![](images/vit2.png)
+![](images/vit2.PNG)
 <p>Availabel slots</p>
 
 ![](images/slots.png)
