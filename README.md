@@ -4,7 +4,8 @@ EasyGo –Smart Parking System is a system that will solve the problem of traffi
 <p>•	Part 1: First the camera will detect the empty parking slots / we can also manually allocate the slots and stored their coordinated in file. If we are doing manually then, marking and storing coordinates of parking is one time process as all the coordinates will be stored in file.</p>
 <p>•	Part 2: Stored coordinates will be used to determine if the object/vehicle lies inside the marked coordinates ,then that particular slots cannot be used for parking. Detection of vehicle will be done using different deep learning models.</p>
 <p>•	Part 3: Empty slots information can be send on the Cloud server where user can get the information about empty slots available.</p> 
-### Algorithm
+
+# Algorithm
 <p>The general flow of our smart parking system algorithm is fairly straightforward:</p>
 <p>1.	First, the admin will create the slots accordingly by using mouse cursor on the screen.</p>
 <p>2.	Secondly, the trained/pre-trained model will detect the respective vehicle type like car, bus and motorcycle.</p>
